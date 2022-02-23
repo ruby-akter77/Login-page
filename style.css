@@ -1,0 +1,8 @@
+.admin-box {
+  background-color: rgb(32, 20, 4);
+  padding: 20px;
+}
+.admin-box h1 {
+  color: aqua;
+  font-size: 45px;
+}
